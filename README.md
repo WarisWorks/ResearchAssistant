@@ -4,12 +4,12 @@ Getting Started
 
 Clone the repository:
 
- [clone https://github.com/yourusername/your-project-name.git](https://github.com/WarisWorks/ResearchAssistant)
-cd your-project-name
+ git clone https://github.com/WarisWorks/ResearchAssistant
+cd ResearchAssistant
 
 Install dependencies:
 
-bashCopynpm install
+npm install
 # or
 yarn install
 # or
@@ -17,7 +17,7 @@ pnpm install
 
 Run the development server:
 
-bashCopynpm run dev
+npm run dev
 # or
 yarn dev
 # or
